@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elements source="Harmony Essentials (HarmonyEssentials.exe) version 22.0.3 build 21960 2023-09-13 23:55:53" version="2203" build="21960">
+ <element id="1" elementName="Drawing" elementFolder="Drawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="14" elementName="corre1" elementFolder="corre1.14" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="17" elementName="cesped1" elementFolder="cesped1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="18" elementName="fence1" elementFolder="fence1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="19" elementName="casas1" elementFolder="casas1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="20" elementName="nubes1" elementFolder="nubes1.20" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="22" elementName="cielonaranja1" elementFolder="cielonaranja1.22" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+</elements>
